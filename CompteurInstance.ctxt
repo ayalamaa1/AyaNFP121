@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CompteurInstance
+comment1.params=
+comment1.target=CompteurInstance()
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ CompteurInstance\r\n
+comment2.params=
+comment2.target=int\ voirNbInstances()
+comment3.params=
+comment3.target=int\ statVoirNbInstances()
+numComments=4
